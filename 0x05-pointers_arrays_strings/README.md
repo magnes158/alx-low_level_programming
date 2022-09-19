@@ -1,1 +1,1 @@
-A repo describing 0x05-pointers arrays strings
+ README.md file, at the root of the folder of the project is mandatory
