@@ -4,6 +4,6 @@
 #include <stdio.h>
 
 int _putchar(char c);
-unsugned int coin_count(unsigned int count, int num);
+unsigned int coin_count(unsigned int count, int num);
 
-#endif /*MAIN_H */
+#endif /* MAIN_H */
